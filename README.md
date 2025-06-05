@@ -6,6 +6,12 @@ Este proyecto explora cómo se aborda la salud mental en el sector tecnológico 
 Explorar cómo se aborda la salud mental en el sector tecnológico, considerando tanto las respuestas individuales como el contexto estructural de cada país.
 El análisis combina datos de encuestas con indicadores globales para construir una narrativa visual tipo storytelling.
 
+## 🧠 Datos utilizados
+- [Encuestas OSMI (Open Sourcing Mental Illness)](https://data.mendeley.com/datasets/mmnzx4w8cg/1)
+- [World Bank (Gasto en salud pública)](https://www.kaggle.com/datasets/bushraqurban/world-health-indicators-dataset)
+- [World Happiness Report (Apoyo social, libertad percibida, percepción corrupción...)](https://worldhappiness.report/ed/2025/#appendices-and-data)
+- [Human Development Index (HDI)](https://ourworldindata.org/grapher/human-development-index)
+
 ## 📊 Herramientas utilizadas
 - **Python** (Pandas, NumPy) para preparación y análisis de datos.
 - **Flourish** para la creación de visualizaciones interactivas.
@@ -13,17 +19,10 @@ El análisis combina datos de encuestas con indicadores globales para construir 
 - **GitHub** para documentar y compartir el código y datos.
 
 ## 🗂️ Estructura del repositorio
-
 📁 csv/ → Archivos CSV con los datasets base  
 📄 LICENSE → MIT License   
 📄 README.md → Este archivo    
 📄 tech_survey.ipynb → Análisis en Jupyter Notebook    
-
-## 🧠 Datos utilizados
-- [Encuestas OSMI (Open Sourcing Mental Illness)](https://data.mendeley.com/datasets/mmnzx4w8cg/1)
-- [World Bank (Gasto en salud pública)](https://www.kaggle.com/datasets/bushraqurban/world-health-indicators-dataset)
-- [World Happiness Report (Apoyo social, libertad percibida, percepción corrupción...)](https://worldhappiness.report/ed/2025/#appendices-and-data)
-- [Human Development Index (HDI)](https://ourworldindata.org/grapher/human-development-index)
 
 ## 🎨 Accesibilidad y diseño
 Se han utilizado paletas de colores accesibles validadas por [ColorBrewer](https://colorbrewer2.org) y una combinación tipográfica (Cardo + Didact Gothic) para garantizar una lectura cómoda en pantallas.
