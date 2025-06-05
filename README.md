@@ -1,4 +1,4 @@
-# Visualización de Datos – Salud Mental en el Sector Tecnológico y su contexto global
+# Salud Mental en el Sector Tecnológico y su contexto global
 
 Este proyecto explora cómo se aborda la salud mental en el sector tecnológico a nivel internacional, combinando resultados de encuestas (OSMI) con indicadores estructurales como el índice de desarrollo humano, gasto en salud pública, apoyo social o libertad percibida.
 
@@ -13,9 +13,9 @@ Analizar las diferencias entre países en la forma de hablar sobre salud mental 
 
 ## 🗂️ Estructura del repositorio
 
-📁 csv/ → Archivos CSV con los datasets base
-📄 LICENSE → MIT License
-📄 README.md → Este archivo
+📁 csv/ → Archivos CSV con los datasets base 
+📄 LICENSE → MIT License 
+📄 README.md → Este archivo 
 📄 tech_survey.ipynb → Análisis en Jupyter Notebook
 
 
