@@ -3,7 +3,8 @@
 Este proyecto explora cómo se aborda la salud mental en el sector tecnológico a nivel internacional, combinando resultados de encuestas (OSMI) con indicadores estructurales como el índice de desarrollo humano, gasto en salud pública, apoyo social o libertad percibida.
 
 ## 🔍 Objetivo
-Analizar las diferencias entre países en la forma de hablar sobre salud mental en el trabajo y los recursos ofrecidos por las empresas, utilizando un enfoque visual tipo storytelling.
+Explorar cómo se aborda la salud mental en el sector tecnológico, considerando tanto las respuestas individuales como el contexto estructural de cada país.
+El análisis combina datos de encuestas con indicadores globales para construir una narrativa visual tipo storytelling.
 
 ## 📊 Herramientas utilizadas
 - **Python** (Pandas, NumPy) para preparación y análisis de datos.
