@@ -29,10 +29,7 @@ El análisis combina datos de encuestas con indicadores globales para construir 
 Se han utilizado paletas de colores accesibles validadas por [ColorBrewer](https://colorbrewer2.org) y una combinación tipográfica (Cardo + Didact Gothic) para garantizar una lectura cómoda en pantallas.
 
 ## 📄 Visualización final
-
-Consulta la versión completa del storytelling en el siguiente enlace:  
-📎 [Ver presentación]([https://drive.google.com/...](https://www.canva.com/design/DAGooUkPcpk/w-SekDtGpbii0-_jAKHfkg/view?utm_content=DAGooUkPcpk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13a5831087))  
-
+📎 [Ver presentación](https://drive.google.com/...](https://www.canva.com/design/DAGooUkPcpk/w-SekDtGpbii0-_jAKHfkg/view?utm_content=DAGooUkPcpk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13a5831087)
 
 
 ## 📬 Contacto
