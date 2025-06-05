@@ -20,10 +20,10 @@ El análisis combina datos de encuestas con indicadores globales para construir 
 📄 tech_survey.ipynb → Análisis en Jupyter Notebook    
 
 ## 🧠 Datos utilizados
-- Encuestas OSMI (Open Sourcing Mental Illness)
-- World Bank (Gasto en salud pública)
-- World Happiness Report (Apoyo social, libertad percibida, percepción corrupción...)
-- Human Development Index (HDI)
+- [Encuestas OSMI (Open Sourcing Mental Illness)](https://data.mendeley.com/datasets/mmnzx4w8cg/1)
+- [World Bank (Gasto en salud pública)](https://www.kaggle.com/datasets/bushraqurban/world-health-indicators-dataset)
+- [World Happiness Report (Apoyo social, libertad percibida, percepción corrupción...)](https://worldhappiness.report/ed/2025/#appendices-and-data)
+- [Human Development Index (HDI)](https://ourworldindata.org/grapher/human-development-index)
 
 ## 🎨 Accesibilidad y diseño
 Se han utilizado paletas de colores accesibles validadas por [ColorBrewer](https://colorbrewer2.org) y una combinación tipográfica (Cardo + Didact Gothic) para garantizar una lectura cómoda en pantallas.
