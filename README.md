@@ -14,7 +14,7 @@ Analizar las diferencias entre países en la forma de hablar sobre salud mental 
 ## 🗂️ Estructura del repositorio
 
 📁 csv/ → Archivos CSV con los datasets base  
-📄 LICENSE → MIT License 
+📄 LICENSE → MIT License
 📄 README.md → Este archivo 
 📄 tech_survey.ipynb → Análisis en Jupyter Notebook
 
