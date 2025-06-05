@@ -18,18 +18,17 @@ El análisis combina datos de encuestas con indicadores globales para construir 
 - **Canva** para maquetación de las slides.
 - **GitHub** para documentar y compartir el código y datos.
 
-## 🗂️ Estructura del repositorio
-📁 csv/ → Archivos CSV con los datasets base  
-📄 LICENSE → MIT License   
-📄 README.md → Este archivo    
-📄 tech_survey.ipynb → Análisis en Jupyter Notebook    
-
 ## 🎨 Accesibilidad y diseño
 Se han utilizado paletas de colores accesibles validadas por [ColorBrewer](https://colorbrewer2.org) y una combinación tipográfica (Cardo + Didact Gothic) para garantizar una lectura cómoda en pantallas.
 
 ## 📄 Visualización final
 📎 [Ver narrativa visual en Canva](https://www.canva.com/design/DAGooUkPcpk/w-SekDtGpbii0-_jAKHfkg/view?utm_content=DAGooUkPcpk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13a5831087)
 
+## 🗂️ Estructura del repositorio
+📁 csv/ → Archivos CSV con los datasets base  
+📄 LICENSE → MIT License   
+📄 README.md → Este archivo    
+📄 tech_survey.ipynb → Análisis en Jupyter Notebook    
 
 ## 📬 Contacto
 **Tamara Pérez Pérez**  
